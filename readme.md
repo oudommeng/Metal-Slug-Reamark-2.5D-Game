@@ -1,6 +1,6 @@
 # Rambo Katue
 
-This project is a remake of the classic Metal Slug game, reimagined as a 2.5D game. It was built as a final project for school using Unity version 2022.3.47f1.
+This project is a remake of the classic Metal Slug game, reimagined as a 2.5D game. It was built as a final project for school using Unity version 2022.3.41f1.
 
 ## Project Overview
 
