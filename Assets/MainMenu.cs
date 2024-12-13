@@ -31,4 +31,9 @@ public class MainMenu : MonoBehaviour
         // Quit the game
         Application.Quit();
     }
+
+    void ShowDifficultyPanel(GameObject gameObject)
+    {
+        gameObject.SetActive(true); // Show the difficulty panel
+    }
 }
